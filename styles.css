@@ -7,9 +7,9 @@ div {
 }
 
 img {
-    padding: 200px; /* Ajusta el valor según lo que necesites */
+    padding: 50px; /* Ajusta el valor según lo que necesites */
     display: block;
-    margin: 0 auto;
+    
     margin: 20px auto; /* Centra el GIF y añade espacio alrededor */
 }
 
