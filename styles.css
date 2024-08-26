@@ -7,9 +7,10 @@ div {
 }
 
 img {
-    padding: 50px; /* Ajusta el valor según lo que necesites */
+    padding: 200px; /* Ajusta el valor según lo que necesites */
+    max-width: 100%; /* El GIF se adapta al tamaño de la pantalla */
+    height: auto; /* Mantiene la proporción del GIF */
     display: block;
-    
     margin: 20px auto; /* Centra el GIF y añade espacio alrededor */
 }
 
