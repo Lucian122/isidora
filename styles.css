@@ -6,6 +6,12 @@ div {
 	padding: 20px;
 }
 
+img {
+    padding: 200px; /* Ajusta el valor según lo que necesites */
+    display: block;
+    margin: 0 auto;
+}
+
 .mns {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
