@@ -7,7 +7,6 @@ div {
 }
 
 img {
-    padding: 400px; /* Ajusta el valor según lo que necesites */
     max-width: 100%; /* El GIF se adapta al tamaño de la pantalla */
     height: auto; /* Mantiene la proporción del GIF */
     display: block;
